@@ -26,10 +26,34 @@ Bu proje, apartman ve tatil sitesi gibi toplu yaşam alanlarında mekan (daire, 
 - Kullanım kayıtları `HavuzKul.txt` ve `Fitness.txt` dosyalarına yazılır
 
 ---
+'''
+## 📁 Dosya Yapısı 
+  TatilSitesiYonetimi/
+├── Classes/
+│ ├── Mekan.cs
+│ ├── Daire.cs
+│ ├── Havuz.cs
+│ ├── Fitness.cs
+│ ├── Oturan.cs
+│ ├── AileReisi.cs
+│ ├── Misafir.cs
+│ ├── Odeme.cs
+│ └── DosyaYonetici.cs
+│
+├── Forms/
+│ ├── FormMekan.cs
+│ ├── FormKisi.cs
+│ ├── FormOdeme.cs
+│ └── FormHavuzFitness.cs
+│
+├── bin/Debug/Data/
+│ ├── Mekan.txt
+│ ├── Data.txt
+│ ├── Odeme.txt
+│ ├── HavuzKul.txt
+│ └── Fitness.txt
 
-<pre><code>## 📁 Dosya Yapısı ``` TatilSitesiYonetimi/ ├── Classes/ │ ├── Mekan.cs │ ├── Daire.cs │ ├── Havuz.cs │ ├── Fitness.cs │ ├── Oturan.cs │ ├── AileReisi.cs │ ├── Misafir.cs │ ├── Odeme.cs │ └── DosyaYonetici.cs │ ├── Forms/ │ ├── FormMekan.cs │ ├── FormKisi.cs │ ├── FormOdeme.cs │ └── FormHavuzFitness.cs │ ├── bin/Debug/Data/ │ ├── Mekan.txt │ ├── Data.txt │ ├── Odeme.txt │ ├── HavuzKul.txt │ └── Fitness.txt ``` </code></pre>
-
-
+'''
 
 ---
 
