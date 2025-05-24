@@ -1,0 +1,9 @@
+﻿1,x,1,Havuz,Kullandırıldı
+1,x,1,Havuz,Kullandırıldı
+1,x,1,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırıldı

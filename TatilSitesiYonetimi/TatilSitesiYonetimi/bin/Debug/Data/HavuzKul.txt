@@ -1,0 +1,16 @@
+﻿1,x,1,Havuz,Kullandırıldı
+1,x,1,Havuz,Kullandırıldı
+1,x,1,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırılmadı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırıldı
+4,adsdf,12,Havuz,Kullandırıldı
+68257100639,yavuz selim soy,11,Havuz,Kullandırıldı
+12345678910,ali kunak,20,Havuz,Kullandırıldı
+12345678910,ali kunak,20,Havuz,Kullandırıldı
+12345678910,ali kunak,20,Havuz,Kullandırıldı

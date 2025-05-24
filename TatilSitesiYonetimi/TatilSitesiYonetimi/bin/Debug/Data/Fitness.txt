@@ -1,0 +1,11 @@
+﻿1,x,1,Fitness,Kullandırıldı
+1,a,1,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırılmadı
+4,adsdf,12,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırılmadı
+4,adsdf,12,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırıldı
+3,abcd,2,Fitness,Kullandırılmadı
+12345678910,ali kunak,20,Fitness,Kullandırıldı
+68257100639,yavuz selim soy,11,Fitness,Kullandırılmadı

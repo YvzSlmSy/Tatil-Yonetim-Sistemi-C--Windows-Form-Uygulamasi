@@ -1,0 +1,5 @@
+﻿1,x,1,Fitness,Kullandırıldı
+1,a,1,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırılmadı
+4,adsdf,12,Fitness,Kullandırıldı
+4,adsdf,12,Fitness,Kullandırılmadı
