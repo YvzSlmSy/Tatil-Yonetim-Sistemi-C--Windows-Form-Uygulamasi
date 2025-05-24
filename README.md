@@ -26,7 +26,7 @@ Bu proje, apartman ve tatil sitesi gibi toplu yaşam alanlarında mekan (daire, 
 - Kullanım kayıtları `HavuzKul.txt` ve `Fitness.txt` dosyalarına yazılır
 
 ---
-'''
+
 ## 📁 Dosya Yapısı 
   TatilSitesiYonetimi/
 ├── Classes/
@@ -53,7 +53,7 @@ Bu proje, apartman ve tatil sitesi gibi toplu yaşam alanlarında mekan (daire, 
 │ ├── HavuzKul.txt
 │ └── Fitness.txt
 
-'''
+
 
 ---
 
